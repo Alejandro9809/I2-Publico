@@ -6,6 +6,7 @@
  */
 
 #include <stdlib.h>
+#include "../include/funcionesNum.h"
 
 
 double porcentaje(double x, double y){

@@ -3,6 +3,7 @@
  * @param y Segundo parametro
  * @returns x
 */
+#include "../include/funcionesNum.h"
 
 double Exponencial (double x, double y){
     int z = x;

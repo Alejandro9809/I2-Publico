@@ -1,5 +1,5 @@
 #include <stdbool.h>
-
+#include "../include/funcionesNum.h"
 
 /** @brief  Recibe un numero y devuelve si es primo o no 
 * @param    number primer numero

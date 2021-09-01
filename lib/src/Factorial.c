@@ -1,5 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
+#include "../include/funcionesNum.h"
 
 /** @brief Recibe un numero entero y duelve su factorial
  *  @param x Valor de entrada
