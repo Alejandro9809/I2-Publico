@@ -8,6 +8,8 @@
  */
 
 #include <stdint.h>
+#include <stdbool.h>
+
 
 /** @brief Funcion que eleva un numero elevado a un exponente
  * @param x  Primer parametro
