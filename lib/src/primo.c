@@ -1,7 +1,7 @@
 #include <stdbool.h>
-/** @brief A Function
-* @param firs number
-* @returns   flag_return 
+/** @brief  Recibe un numero y devuelve si es primo o no 
+* @param    number primer numero
+* @returns   bool flag return si es primo o no  
 */
 
 
