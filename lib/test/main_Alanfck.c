@@ -6,16 +6,16 @@ int main(int argc, char const *argv[])
 {   
     double op1 = atoi(argv[1]);
     double op2 = atoi(argv[2]);
-    double z;
+    double a;
     
-    z=porcentaje(op1, op2);
-    printf ( " %lf\n ", z);
+    a=porcentaje(op1, op2);
+    printf ( " %lf\n ", a);
 
-    z=Exponencial(op1, op2);
-    printf("%.f \n", z); 
+    a=Exponencial(op1, op2);
+    printf("%.f \n", a); 
     
-    z=factorial(op1);
-    printf("%.f\n",z);
+    a=factorial(op1);
+    printf("%.f\n",a);
 
     if(es_primo(op1)){
         printf("es primo\n");
