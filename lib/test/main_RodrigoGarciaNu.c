@@ -19,11 +19,10 @@ int main(int argc, char const *argv[]){
     z = porcentaje(op1, op2);
     printf("%.f", z);
 
-    bool fr;
-    fr = es_primo(p1);
+     
 
 
-    
+
 
 
     
