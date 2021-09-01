@@ -1,7 +1,7 @@
 #include <stdbool.h>
 /** @brief A Function
-* @param firs number
-* @returns   flag_return 
+* @param firs   number
+* @returns  flag_return 
 */
 
 
